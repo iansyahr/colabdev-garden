@@ -2,10 +2,10 @@
 A collection of code cheatsheets for setting up different tools, libraries, programming languages, etc. on Google Colab
 
 ## Index
-- Esbuild
-- Go
-- Node.js & npm
-- Rust
+- [Esbuild](#esbuild)
+- [Go](#go)
+- [Node.js & npm](#nodejs--npm)
+- [Rust](#rust)
 
 ### Esbuild
 
