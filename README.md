@@ -2,10 +2,18 @@
 A collection of code cheatsheets for setting up different tools, libraries, programming languages, etc. on Google Colab
 
 ## Index
+- [Deno](#deno)
 - [Esbuild](#esbuild)
 - [Go](#go)
 - [Node.js & npm](#nodejs--npm)
 - [Rust](#rust)
+
+### Deno
+```python
+import os
+os.system("curl -fsSL https://deno.land/install.sh | sh")
+os.environ['PATH'] += ":/root/.deno/bin/"
+```
 
 ### Esbuild
 
